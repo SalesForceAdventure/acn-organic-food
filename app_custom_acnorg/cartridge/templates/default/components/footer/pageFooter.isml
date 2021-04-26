@@ -15,6 +15,7 @@
                 <iscontentasset aid="footer-about" />
             </div>
             <div class="footer-item col-sm-2 collapsible-xs">
+
                 <iscontentasset aid="whatsapp" />
             </div>
         </div>

@@ -1,0 +1,28 @@
+{
+    "step-types":
+    {
+      "script-module-step":
+      [
+        {
+          "@type-id":"custom.EnviaEmail",
+          "description":"Envia E-mail com status da compra",
+          "module":"app_custom_acnorg/cartridge/scripts/jobs/enviaEmail.js",
+          "function":"execute",
+          "status-codes": 
+          {
+                    "status": 
+            [
+                        {
+                            "@code": "ERROR",
+                            "description": "Used when the step failed with an error."
+                        },
+                        {
+                            "@code": "OK",
+                            "description": "Used when the step finished successfully."
+                        }
+                    ]
+                }
+           }
+        ]
+      }
+    }

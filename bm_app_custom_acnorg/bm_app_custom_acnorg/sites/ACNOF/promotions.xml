@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<promotions xmlns="http://www.demandware.com/xml/impex/promotion/2008-01-31">
+    <campaign campaign-id="campaign_01">
+        <description>Frete Grátis às Segundas-Feiras</description>
+        <enabled-flag>true</enabled-flag>
+        <campaign-scope>
+            <applicable-online/>
+        </campaign-scope>
+        <customer-groups match-mode="any">
+            <customer-group group-id="Everyone"/>
+        </customer-groups>
+    </campaign>
+
+    <promotion promotion-id="promocao_01">
+        <enabled-flag>true</enabled-flag>
+        <archived-flag>false</archived-flag>
+        <searchable-flag>true</searchable-flag>
+        <refinable-flag>false</refinable-flag>
+        <prevent-requalifying-flag>false</prevent-requalifying-flag>
+        <prorate-across-eligible-items-flag>false</prorate-across-eligible-items-flag>
+        <exclusivity>no</exclusivity>
+        <name xml:lang="x-default">Promoção</name>
+        <details xml:lang="x-default">Segunda Frete Grátis,</details>
+        <image>banner-frete-gratis.png</image>
+        <shipping-promotion-rule>
+            <shipping-methods>
+                <method-id>Padrão</method-id>
+            </shipping-methods>
+            <discounts condition-type="shipment-total">
+                <discount>
+                    <threshold>0.0</threshold>
+                    <free/>
+                </discount>
+            </discounts>
+        </shipping-promotion-rule>
+    </promotion>
+
+    <promotion-campaign-assignment promotion-id="promocao_01" campaign-id="campaign_01">
+        <qualifiers match-mode="any">
+            <customer-groups/>
+            <source-codes/>
+            <coupons/>
+        </qualifiers>
+        <schedule>
+            <recurrence>
+                <day-of-week>
+                    <weekday>Monday</weekday>
+                </day-of-week>
+                <time-of-day>
+                    <time-from>00:00:00.000Z</time-from>
+                    <time-to>12:00:00.000Z</time-to>
+                </time-of-day>
+            </recurrence>
+        </schedule>
+    </promotion-campaign-assignment>
+
+</promotions>

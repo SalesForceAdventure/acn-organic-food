@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<search xmlns="http://www.demandware.com/xml/impex/search2/2010-02-19">
+    <searchable-attributes>
+        <searchable-attribute>
+            <attribute-path>category.displayName</attribute-path>
+            <boost>2.0</boost>
+            <auto-correction>true</auto-correction>
+        </searchable-attribute>
+        <searchable-attribute>
+            <attribute-path>product.ID</attribute-path>
+            <boost>1.0</boost>
+            <auto-correction>true</auto-correction>
+        </searchable-attribute>
+        <searchable-attribute>
+            <attribute-path>product.brand</attribute-path>
+            <boost>2.0</boost>
+            <auto-correction>true</auto-correction>
+        </searchable-attribute>
+        <searchable-attribute>
+            <attribute-path>product.name</attribute-path>
+            <boost>2.0</boost>
+            <auto-correction>true</auto-correction>
+        </searchable-attribute>
+    </searchable-attributes>
+    <index-settings>
+        <full-reindexing-schedule>
+            <date-from>2021-04-22Z</date-from>
+            <start-time>23:56:05.721Z</start-time>
+            <factor>1</factor>
+            <unit>days</unit>
+        </full-reindexing-schedule>
+        <indexed-locales>
+            <locale>x-default</locale>
+            <locale>pt-BR</locale>
+        </indexed-locales>
+        <stemming xml:lang="x-default">English</stemming>
+        <stemming xml:lang="pt-BR">Portuguese</stemming>
+    </index-settings>
+</search>
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sort xmlns="http://www.demandware.com/xml/impex/sort/2009-05-15">
+    <sorting-rule rule-id="CestasGeral">
+        <sorting-attributes>
+            <attribute>
+                <attribute-path>product.name</attribute-path>
+                <direction>ascending</direction>
+                <include-text-relevance>false</include-text-relevance>
+            </attribute>
+        </sorting-attributes>
+    </sorting-rule>
+
+    <sorting-rule rule-id="CestasProntas">
+        <sorting-attributes>
+            <attribute>
+                <attribute-path>product.name</attribute-path>
+                <direction>descending</direction>
+                <include-text-relevance>false</include-text-relevance>
+            </attribute>
+        </sorting-attributes>
+    </sorting-rule>
+
+    <sorting-rule-assignment category-id="CestasProntas" rule-id="CestasProntas" rule-context="site"/>
+
+    <sorting-rule-assignment category-id="MonteSuaCesta" rule-id="CestasProntas" rule-context="site"/>
+
+</sort>

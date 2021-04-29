@@ -4,7 +4,7 @@ Trabalho de conclusão da Academia [Accenture](https://www.accenture.com/br-pt) 
 
 
 _____
->## 💻  Business Case
+## :pencil2: Business Case
 
 E-Grocery – ACN Organic Food
 
@@ -51,7 +51,7 @@ projeto
 #### O que Julia não sabe:
 - [x] Não sei qual tecnologia usar e gostaria de testar duas plataformas que algumas
 pessoas recomendaram: Magento e Salesforce Commerce Cloud;
-- [x] Tenho dúvidas sobre quais integrações e sistemas serão necessárias para que seu ecommerce funcione, do início ao fim;
+- [x] Tenho dúvidas sobre quais integrações e sistemas serão necessárias para que seu e-commerce funcione, do início ao fim;
 - [X] Não tenho ideia de como será a loja em termos de usabilidade e layout, mas quero
 que seja de fácil uso.
 #### O que Julia sabe:
@@ -137,7 +137,7 @@ Instale a extensão Prophet Debugger no Visual Studio Code
 ```
 ---
 
-## Autores:
+## 💻 Autores:
 
 - [Amanda Carolina Lima da Silva](https://www.linkedin.com/in/amanda-silva-834b0b122/)
 - [Andressa Dreher](https://www.linkedin.com/in/andressa-dreher/)

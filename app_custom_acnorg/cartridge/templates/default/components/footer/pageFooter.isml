@@ -2,20 +2,16 @@
     <div class="container">
         <div class="footer-container row">
 
-            <div class="footer-item col-sm-2 store">
+            <div class="footer-item col-sm-3 store">
                 <iscontentasset aid="footer-locate-store" />
             </div>
-            <div class="footer-item col-sm-2 collapsible-xs">
+            <div class="footer-item col-sm-3 collapsible-xs">
                 <iscontentasset aid="footer-account" />
             </div>
-            <div class="footer-item col-sm-2 collapsible-xs">
+            <div class="footer-item col-sm-3 collapsible-xs">
                 <iscontentasset aid="footer-support" />
             </div>
-            <div class="footer-item col-sm-2 collapsible-xs">
-                <iscontentasset aid="footer-about" />
-            </div>
-            <div class="footer-item col-sm-2 collapsible-xs">
-
+            <div class="footer-item col-sm-3 collapsible-xs">
                 <iscontentasset aid="whatsapp" />
             </div>
         </div>

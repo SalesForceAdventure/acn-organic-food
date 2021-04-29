@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stores xmlns="http://www.demandware.com/xml/impex/store/2007-04-30">
+    <store store-id="Filial_06">
+        <name>Filial 06 - Mauá</name>
+        <address1>R. Santos Dumont, 808</address1>
+        <city>Mauá</city>
+        <postal-code>09310335</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.667472</latitude>
+        <longitude>-46.448693</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_08">
+        <name>Filial 08 - Embu das Artes</name>
+        <address1>R. Santo Antônio, 132</address1>
+        <address2>06843190</address2>
+        <city>Embu das Artes</city>
+        <postal-code>06843190</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.65942</latitude>
+        <longitude>-46.861276</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_09">
+        <name>Filial 09 - Taboão da Serra</name>
+        <address1>Av. Dr. José Maciel, 941</address1>
+        <city>Taboão da Serra</city>
+        <postal-code>06763270</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.613947</latitude>
+        <longitude>-46.765204</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_18">
+        <name>Filial 18 - Garulhos</name>
+        <address1>R. Birigui, 891</address1>
+        <city>Garulhos</city>
+        <postal-code>07180310</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.451285</latitude>
+        <longitude>-46.466729</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_03">
+        <name>Filial 03 - São Caetano do Sul</name>
+        <address1>R. Baraldi, 525</address1>
+        <city>São Caetano do Sul</city>
+        <postal-code>09510005</postal-code>
+        <state-code>RS</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.613135</latitude>
+        <longitude>-46.575854</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_14">
+        <name>Filial 14 - Itapevi</name>
+        <address1>Av. Luís Manfrinato, 144</address1>
+        <city>Itapevi</city>
+        <postal-code>06653100</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.547329</latitude>
+        <longitude>-46.932821</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_19">
+        <name>Filial 19 - Barueri</name>
+        <address1>R. Brasil, 265</address1>
+        <city>Barueri</city>
+        <postal-code>06411090</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.502079</latitude>
+        <longitude>-46.875037</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_01">
+        <name>Filial 01 - São Bernardo do Campo</name>
+        <address1>Rua Santa Filomena, 656</address1>
+        <city>São Bernardo do Campo</city>
+        <postal-code>09710060</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.704739</latitude>
+        <longitude>-46.550967</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Matriz">
+        <name>Matriz - Pinheiros</name>
+        <address1>Rua Teodoro Sampaio, 2064</address1>
+        <city>São Paulo</city>
+        <postal-code>05406150</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.563773</latitude>
+        <longitude>-46.688368</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_02">
+        <name>Filial 02 - Santo André</name>
+        <address1>R. Vinte e Quatro de Fevereiro, 306</address1>
+        <city>Santo André</city>
+        <postal-code>09015610</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.659326</latitude>
+        <longitude>-46.518661</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_04">
+        <name>Filial 04 - Suzano</name>
+        <address1>Alameda Tenente José Bernardino, 99</address1>
+        <city>Suzano</city>
+        <postal-code>08673190</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.539752</latitude>
+        <longitude>-46.320235</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_05">
+        <name>Filial 05 - Diadema</name>
+        <address1>R. São Marcos, 185</address1>
+        <city>Diadema</city>
+        <postal-code>09913050</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.683259</latitude>
+        <longitude>-46.630117</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_12">
+        <name>Filial 12 - Jundiaí</name>
+        <address1>Rua Coronel Boaventura Mendes Pereira, 266</address1>
+        <city>Jundiaí</city>
+        <postal-code>13201801</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.188132</latitude>
+        <longitude>-46.889355</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_13">
+        <name>Filial 13 - Ribeirão Preto</name>
+        <address1>R. São Sebastião, 830</address1>
+        <city>Ribeirão Preto</city>
+        <postal-code>14015040</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-21.177713</latitude>
+        <longitude>-47.807598</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_16">
+        <name>Filial 16 - Jandira</name>
+        <address1>R. Henrique Dias, 24</address1>
+        <city>Jandira</city>
+        <postal-code>06604085</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.533193</latitude>
+        <longitude>-46.902366</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_11">
+        <name>Filial 11 - Cotia</name>
+        <address1>R. Brasília, 293</address1>
+        <city>Cotia</city>
+        <postal-code>06700590</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.611139</latitude>
+        <longitude>-46.94659</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_17">
+        <name>Filial 17 - Mairiporã</name>
+        <address1>R. Cel. Fagundes, 130</address1>
+        <city>Mairiporã</city>
+        <postal-code>07600000</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.319089</latitude>
+        <longitude>-46.585831</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_07">
+        <name>Filial 07 - Carapicuíba</name>
+        <address1>R. José Forão Fontes, 90</address1>
+        <city>Carapicuíba</city>
+        <postal-code>06320200</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.525296</latitude>
+        <longitude>-46.836419</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_10">
+        <name>Filial 10 - Ribeirão Pires</name>
+        <address1>Av. Fortuna, 248</address1>
+        <city>Ribeirão Pires</city>
+        <postal-code>09400320</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.709097</latitude>
+        <longitude>-46.412154</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+    <store store-id="Filial_15">
+        <name>Filial 15 - Itapecerica da Serra</name>
+        <address1>R. Formosa, 163</address1>
+        <city>Itapecerica da Serra</city>
+        <postal-code>06852260</postal-code>
+        <state-code>São Paulo</state-code>
+        <country-code>BR</country-code>
+        <email>sac@acnorganicfood.com.br</email>
+        <phone>0800 500 1234</phone>
+        <store-hours xml:lang="x-default">Horário de Funcionamento:
+Seg - Sex: 09hs às 20hs
+Sáb - Dom: 10hs às 16hs</store-hours>
+        <latitude>-23.70556</latitude>
+        <longitude>-46.857661</longitude>
+        <inventory-list-id>inventory_acn</inventory-list-id>
+        <store-locator-enabled-flag>true</store-locator-enabled-flag>
+        <demandware-pos-enabled-flag>false</demandware-pos-enabled-flag>
+        <pos-enabled-flag>false</pos-enabled-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="countryCodeValue">BR</custom-attribute>
+            <custom-attribute attribute-id="inventoryListId">inventory_acn</custom-attribute>
+        </custom-attributes>
+    </store>
+
+</stores>
